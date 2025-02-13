@@ -54,3 +54,14 @@ O código Arduino é responsável por:
 
 ## Conclusão
 Este projeto demonstra como a integração entre visão computacional e hardware pode ser usada para criar sistemas interativos. Ele destaca a eficiência do uso de Python para processamento de imagem e do Arduino para controle de motores, proporcionando uma solução criativa para o controle em tempo real de dispositivos robóticos.
+
+---
+
+### Tecnologias e Ferramentas:
+ <div style="display=inline-block">
+    <img height=40 title="Arduíno" alt="Arduíno" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg"/>&nbsp;
+    <img height=40 title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>&nbsp;
+    <img height=40 title="Pycharm" alt="Pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>&nbsp;
+    <img height=40 title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>&nbsp;
+    <img height=40 title="OpenCV" alt="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg"/>&nbsp;
+ </div>
