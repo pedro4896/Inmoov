@@ -16,9 +16,9 @@ if not cap.isOpened():
     print("Erro: Não foi possível acessar a câmera.")
     exit()
 
-# Definir o tamanho da janela (largura, altura)
-window_width = 1280
-window_height = 720
+# Janela em tela cheia
+cv2.namedWindow("Image", cv2.WND_PROP_FULLSCREEN)
+cv2.setWindowProperty("Image", cv2.WND_PROP_FULLSCREEN, cv2.WINDOW_FULLSCREEN)
 
 # Criar uma janela com o nome especificado
 cv2.namedWindow("Image", cv2.WINDOW_NORMAL)
